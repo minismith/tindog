@@ -175,7 +175,7 @@ p {
 }
 
 
-@media (min-width: 1028px) {
+@media (max-width: 1028px) {
     .phone-pic {
         position: static;
         transform: rotate(0);
